@@ -1,0 +1,1 @@
+I removed the google maps key in the android manifest. PLease use your own key.
